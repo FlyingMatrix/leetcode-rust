@@ -1,2 +1,2 @@
-# LeetCode-Rust
-LeetCode problem-solving with Rust: solutions and practice exercises
+# Rust-Algos
+Rust implementation of various algorithms and data structures
